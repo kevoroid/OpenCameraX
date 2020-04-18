@@ -204,7 +204,7 @@
                     android:key="preference_remote_device_name"
                     android:title="@string/preference_select_remote">
 
-                    <intent android:action="net.sourceforge.opencamera.Remotecontrol.DeviceScanner"/>
+                    <intent android:action="com.kevoroid.opencamerax.Remotecontrol.DeviceScanner"/>
 
                 </PreferenceScreen>
 
